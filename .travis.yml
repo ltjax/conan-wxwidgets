@@ -1,1 +1,1 @@
-import: croydon/templates:.ci/travis.yml@master
+import: croydon/templates:.ci/travis.yml@croydon2
